@@ -1,0 +1,7 @@
+.DS_Store
+.env
+.zip
+input/*
+output/*
+package-lock.json
+node_modules

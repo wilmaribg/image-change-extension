@@ -1,0 +1,23 @@
+{
+  "name": "image-change-extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wilmar <wilmar.ibg@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.10.0",
+    "cli-progress": "^3.9.1",
+    "colors-cli": "^1.0.28",
+    "count-files": "^2.6.2",
+    "file-name": "^0.1.0",
+    "get-all-files": "^4.1.0",
+    "jimp": "^0.16.1",
+    "rename-extension": "^4.0.0"
+  }
+}
